@@ -46,7 +46,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/ivy/proprietary/etc/firmware/touch_module_id_0xd1.img:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/touch_module_id_0xd1.img \
     vendor/sony/ivy/proprietary/etc/firmware/wlan/bcmdhd/fw_bcmdhd.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/wlan/bcmdhd/fw_bcmdhd.bin \
     vendor/sony/ivy/proprietary/etc/firmware/wlan/bcmdhd/fw_bcmdhd_apsta.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/wlan/bcmdhd/fw_bcmdhd_apsta.bin \
-    vendor/sony/ivy/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
     vendor/sony/ivy/proprietary/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/sensors/sensor_def_qcomdev.conf \
     vendor/sony/ivy/proprietary/etc/touch_fw_update.sh:$(TARGET_COPY_OUT_SYSTEM)/etc/touch_fw_update.sh \
     vendor/sony/ivy/proprietary/lib/camera/libexcal_color_ctrl_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/libexcal_color_ctrl_plugin.so \
