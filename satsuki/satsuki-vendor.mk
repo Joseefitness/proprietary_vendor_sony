@@ -43,7 +43,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/satsuki/proprietary/etc/firmware/wlan/bcmdhd/fw_bcmdhd.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/wlan/bcmdhd/fw_bcmdhd.bin \
     vendor/sony/satsuki/proprietary/etc/firmware/wlan/bcmdhd/fw_bcmdhd_apsta.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/firmware/wlan/bcmdhd/fw_bcmdhd_apsta.bin \
     vendor/sony/satsuki/proprietary/etc/flashled_calc_parameters.cfg:$(TARGET_COPY_OUT_SYSTEM)/etc/flashled_calc_parameters.cfg \
-    vendor/sony/satsuki/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
     vendor/sony/satsuki/proprietary/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/sensors/sensor_def_qcomdev.conf \
     vendor/sony/satsuki/proprietary/etc/touch_fw_update.sh:$(TARGET_COPY_OUT_SYSTEM)/etc/touch_fw_update.sh \
     vendor/sony/satsuki/proprietary/lib/camera/libexcal_color_ctrl_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/libexcal_color_ctrl_plugin.so \
